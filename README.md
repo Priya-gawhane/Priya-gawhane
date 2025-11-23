@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya Gawhane</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h3 align="center">A passionate Computer Science Engineer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/94b1029ed2693c3528fe677f154a2cde8cd20f25de4ec18be71ee1eac2d28c17/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31612f37312f35382f31613731353836383965356365333765356437386439376333333261303033662e676966">
 
 
